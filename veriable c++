@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main(){
+int myAge = 25;
+cout << "I am " << myAge << " years old.";
+return 0;
+}
+// other types
+
+/* int myNum = 5;
+double myFloatNum = 5.99;
+char myLetter = 'D';
+string myText = "Hello";
+bool myBoolean = true;  */
+
+//dont change the value
+//const int minutesPerHour = 60;
+//const float PI = 3.14;
