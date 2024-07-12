@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+int a= 15;
+int b=10;
+int sum= a+b;
+cout << sum ;
+return 0 ;
+}
+
+/* int x = 5, y = 6, z = 50;
+cout << x + y + z; */
